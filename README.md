@@ -1,0 +1,13 @@
+Komponent	Povezava na mikrokrmilniku
+DB4 (LCD)	P1.0 (izhod)
+DB5 (LCD)	P1.1 (izhod)
+DB6 (LCD)	P1.2 (izhod)
+DB7 (LCD)	P1.3 (izhod)
+RS	P1.5 (izhod)
+EN	P1.4 (izhod)
+Buzzer	P1.6 (izhod)
+Senzor za merjenje nivo vode	P1.7 (vhod)
+Zelena LED	P2.1 (izhod)
+Rumena LED	P2.2 (izhod)
+Rdeča LED	P2.0 (izhod)
+Gumb za prekinitev (zasilni izklop)	P2.3 (vhod)
